@@ -1,0 +1,6 @@
+"usuario:contraseña"
+
+oscar:oscar
+angela:angela
+mari:mari
+usuario:usuario
