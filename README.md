@@ -51,7 +51,7 @@ Este proyecto es una implementación del juego "Hundir la Flota" (Batalla Naval)
 
 ### 2. Configuración del Cliente
 
-1. Configura el host y el puerto en el archivo ConexiónConServidor.java, por defentos estan configurados en "localhost" y 2000 respectivamente. Si vuestra base de datos está en local y tenéis libre el puerto 2000 no hace falta hacer este paso, tened en cuenta que el puerto ha de ser el mismo en el cliente y en el servidor. 
+1. Configura el host y el puerto en el archivo ConexiónConServidor.java, por defecto estan configurados en "localhost" y 2000 respectivamente. Si vuestra base de datos está en local y tenéis libre el puerto 2000 no hace falta hacer este paso, tened en cuenta que el puerto ha de ser el mismo en el cliente y en el servidor. 
 
 2. Compila y ejecuta el servidor.
 
